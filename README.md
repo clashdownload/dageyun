@@ -4,7 +4,7 @@
 最新官网地址：[大哥云官网](https://ct.affxc.com/dageyun/)
 
 ## 大哥云怎么样？
-大哥云VPN加速器，提供Trojan协议及V2Ray协议翻墙机场节点，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
+大哥云VPN加速器，提供Trojan协议翻墙机场节点，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
 
 ## 大哥云优惠码
 大哥云优惠码：VPNOOL.COM  
@@ -19,16 +19,17 @@
 | 套餐A | 按季付 | 69.00 | 200 GB | 无限制 |
 | 套餐A | 按年付 | 199.00 | 300 GB | 无限制 |
 | 套餐B | 按月付 | 29.90 | 150 GB | 无限制 |
-| 套餐B | 按季付 | 129.00 | 300 GB | 无限制 |
 | 套餐B | 按年付 | 299.00 | 500 GB | 无限制 |
 
 ## 大哥云机场测速
 
-![dageyun-SpeedTest-SZDX](https://github.com/clashdownload/dageyun/assets/157440626/2c3c9e16-c3cd-456c-b0c6-8bddfe3a706f)
+![dageyun-SpeedTest](https://github.com/user-attachments/assets/579c5b4d-e43f-4a19-bf34-d9d233c1b70c)
+
 
 ## 大哥云出入口分析
 
-![dageyun-Network-Topology-SZDX](https://github.com/clashdownload/dageyun/assets/157440626/d401b07b-12dd-44e4-872b-1caf99804b6e)
+![dageyun-Network-Topology](https://github.com/user-attachments/assets/75c922a1-49f3-439b-9a80-ab5da0d34c4d)
+
 
 ## 大哥云跑路
 目前大哥云没有跑路，可以放心使用。
